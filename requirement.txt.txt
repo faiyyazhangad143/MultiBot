@@ -1,0 +1,8 @@
+streamlit
+pytesseract
+opencv-python
+requests
+moviepy
+pdf2image
+numpy
+SpeechRecognition
