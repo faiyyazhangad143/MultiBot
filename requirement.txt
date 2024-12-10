@@ -1,0 +1,9 @@
+pytesseract
+opencv-python
+gradio
+requests
+moviepy
+pdf2image
+numpy
+SpeechRecognition
+pdfplumber
